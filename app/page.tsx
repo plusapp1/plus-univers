@@ -28,3 +28,4 @@ export default function Home() {
     </main>
   )
 }
+Replace default page with +start
